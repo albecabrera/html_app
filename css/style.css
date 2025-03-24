@@ -1,12 +1,15 @@
 
+/* Este es el cuerpo de la página */
 body {
     font-family: Arial, sans-serif;
     background-color: lightblue;
 
 }
+/* Esto es un título de prueba */
 h1 {
     color: red;
 }
+/* Esto es un botón de prueba */
 button {
     background-color: white;
     padding: 20px;
@@ -15,5 +18,5 @@ button {
     box-shadow: 5px 5px 5px #888888;
     font-weight: bold;
     font-size: 20px;
-    cursor: pointer;
+    cursor: pointer;f
 } 
