@@ -36,3 +36,12 @@ let numeroString1 = "56";
 let numeroString2 = "44";
 let sumaStrings = numeroString1 + numeroString2;
 console.log(sumaStrings);
+
+// let num3 = "7";
+// let num2 = "5";
+// let operacion = Number(num3) + Number(num2);
+// console.log(operacion);
+
+let num1 = 7;
+let transformaNumber = toString(num1);
+console.log(typeof(transformaNumber));
