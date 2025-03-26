@@ -19,3 +19,20 @@ console.log(resultado2);
 console.log(resultado); // 200
 console.log(num1 + num2); // 30
 console.log(num1 - num2); // -10
+
+let pizza = ["masa", "harina", "tomate", "queso", "peperoni"];
+console.log(pizza); 
+console.log(pizza[1]); 
+
+let concatenacion = "Hola Alberto" + " " + "Aprende a programar";
+console.log(concatenacion);
+
+let colores = ["rojo", "verde", "azul", "amarillo"];
+let coches = ["ford", "chevrolet", "fiat", "renault"];
+let total = "Yo tengo un coche " + coches[1] + " de color " + colores[2];
+console.log(total);
+
+let numeroString1 = "56";
+let numeroString2 = "44";
+let sumaStrings = numeroString1 + numeroString2;
+console.log(sumaStrings);
